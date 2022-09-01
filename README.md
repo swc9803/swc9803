@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=choi%20sungwoo&fontSize=90)
 
-<!--
-**swc9803/swc9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm newbie front-end developer.
 
-Here are some ideas to get you started:
+I enjoy making the interactive websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm cleaning up old dirty codes.
+
+I'm waiting for nuxt3 stable version while cleaning up old dirty codes.
+
+# Language
+
+# Cowork Tool
