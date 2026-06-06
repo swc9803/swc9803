@@ -1,9 +1,3 @@
-
-<h3 align="center">Hi! I'm newbie front-end developer.</h3>
-<br/>
-<p align="center">I enjoy making the interactive websites with gsap.</p>
-<p align="center">My skills are not good enough, But i hope you enjoy my projects.</p>
-<br/>
 <h3 align="center">Technologies Used</h3>
 <p align="center">
   
